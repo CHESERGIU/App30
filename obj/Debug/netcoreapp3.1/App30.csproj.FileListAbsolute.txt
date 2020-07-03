@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App30\bin\Debug\netcoreapp3.1\App30.exe
+C:\Users\sergi\source\repos\App30\bin\Debug\netcoreapp3.1\App30.deps.json
+C:\Users\sergi\source\repos\App30\bin\Debug\netcoreapp3.1\App30.runtimeconfig.json
+C:\Users\sergi\source\repos\App30\bin\Debug\netcoreapp3.1\App30.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App30\bin\Debug\netcoreapp3.1\App30.dll
+C:\Users\sergi\source\repos\App30\bin\Debug\netcoreapp3.1\App30.pdb
+C:\Users\sergi\source\repos\App30\obj\Debug\netcoreapp3.1\App30.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App30\obj\Debug\netcoreapp3.1\App30.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App30\obj\Debug\netcoreapp3.1\App30.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App30\obj\Debug\netcoreapp3.1\App30.dll
+C:\Users\sergi\source\repos\App30\obj\Debug\netcoreapp3.1\App30.pdb
